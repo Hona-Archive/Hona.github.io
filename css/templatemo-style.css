@@ -827,6 +827,21 @@ transition-delay: 0.3s;
 	font-weight: 700;
 }
 
+.contact-right-content h3 {
+	margin-top: 0px;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+}
+
+.contact-right-content .fa {
+	margin-top: 33px;
+	font-size: 36px;
+	color: #fff;
+	font-weight: 700;
+}
+
 footer {
 	height: 80px;
 	margin-top: 10px;	
